@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toasters/static/css/main.6587be9e.chunk.css",
+    "main.js": "/toasters/static/js/main.c375ced6.chunk.js",
+    "main.js.map": "/toasters/static/js/main.c375ced6.chunk.js.map",
+    "runtime~main.js": "/toasters/static/js/runtime~main.2e0d7b33.js",
+    "runtime~main.js.map": "/toasters/static/js/runtime~main.2e0d7b33.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/toasters/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/toasters/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/toasters/index.html",
+    "precache-manifest.4530712ee85b50f3a284d3f2268a54e0.js": "/toasters/precache-manifest.4530712ee85b50f3a284d3f2268a54e0.js",
+    "service-worker.js": "/toasters/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/toasters/static/css/main.6587be9e.chunk.css.map"
+  }
+}
